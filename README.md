@@ -1,11 +1,11 @@
-<h1 align=center>💞 𝗗𝗲𝘃ꗄ➺✘「🇮🇳」</h1>
-<img src = "https://telegra.ph/file/925f177df93aeada403cd.jpg">
+<h1 align=center>💞 D⃠𝐄𝐕𝐈𝐋 𝐐𝐔𝐄𝐄𝐍 Bot</h1>
+<img src = "https://telegra.ph/file/e728f7ed57fc123c8cbda.jpg">
 
 ## You can also tap the Deploy To Heroku button below to deploy straight to Heroku!
 
 # WANT TO FUCK UR SELF THEN DEPLOY 😆😒
 
-<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/AKD1317/Dev-X"> <img src="https://img.shields.io/badge/Fuck_Off-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/HyperAD/Hyper-Unknown"> <img src="https://img.shields.io/badge/Deploy-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 
 ## Find me on telegram 
