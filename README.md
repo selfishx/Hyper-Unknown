@@ -1,59 +1,24 @@
-<h1 align = "center"> ❝𝐓𝐡𝐞 𝐌𝐨𝐬𝐭 𝐏𝐨𝐰𝐞𝐫𝐟𝐮𝐥𝐥 𝐆𝐫𝐨𝐮𝐩 𝐌𝐚𝐧𝐚𝐠𝐞𝐦𝐞𝐧𝐭 𝐁𝐨𝐭❞ </h1>
+<h1 align=center>💞 𝗗𝗲𝘃ꗄ➺✘「🇮🇳」</h1>
+<img src = "https://telegra.ph/file/925f177df93aeada403cd.jpg">
 
-### 🎖 History
+## You can also tap the Deploy To Heroku button below to deploy straight to Heroku!
 
-[![Mentioned in Awesome Python](https://awesome.re/mentioned-badge.svg)](https://github.com/Itsunknown-12/TGN-Robot)
+# WANT TO FUCK UR SELF THEN DEPLOY 😆😒
 
-<p align = "center"><a herf = "https://t.me/Zaid2_Ro_bot" alt = "Zaid"><img src = "https://telegra.ph/file/54f8bedfdaca2954d2ed4.png" width = "900"></a></p>
-
-<p align = "center">
-<a href = "https://python.org">
-<img src = "https://forthebadge.com/images/badges/made-with-python.svg">
-</p>
-</a>
-
-<p align = "center">
-<a href = "https://github.com/Itsunknown-12/Zaid-Robot">
-<img src = "https://forthebadge.com/images/badges/open-source.svg">
-</p>
-</a>
-
-###
-** features over other bots:**
-- Modern
-- Chatbot
-- Fast
-- Fully open-source
-- Frequently updated
-- Multi Language Support
-- Advanced Federation System With Buttons
-- Advanced Api
-- Smart Ai System
-- Easy To Use
-- Random Logos
-
-Can be found on Telegram as [TGN 💞](https://t.me/TGN_RO_BOT)</br>
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/AKD1317/Dev-X"> <img src="https://img.shields.io/badge/Fuck_Off-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 
-## 🅡🅔🅟🅞 🅢🅣🅐🅣🅢
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=Itsunknown-12&repo=TGN-Robot&theme=dark)
+## Find me on telegram 
+[![Telegram](https://img.shields.io/badge/HYPER_KING-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/HYPER_KING_2417)
 
-## 🅓🅔🅟🅛🅞🅨
-[![ᴅᴇᴘʟᴏʏ](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Itsunknown-12/TGN-Robot)
+## SUPPORT ND HELP 🤖
 
+[![SUPPORT CHAT](https://telegra.ph/file/078030b15d2122216d2d0.jpg)](https://t.me/THN_BOTS_SUPPORT)
 
-## 🆅🅴🆁🅸🅰🅱🅻🅴🆂
-[ᴄᴏɴꜰɪɢᴜʀᴀᴛɪᴏɴ](https://github.com/Itsunknown-12/Zaid-Robot/blob/master/Configuration)
+## UPDATES 💞
 
-## 🆂🆄🅿🅿🅾🆁🆃
-[![Zaid](https://img.shields.io/badge/Zaid-Channel-red?style=for-the-badge&logo=telegram)](https://t.me/SUPERIOR_BOTS)</br></br>
-[![Zaid](https://img.shields.io/badge/Superior-Group-red?style=for-the-badge&logo=telegram)](https://t.me/SUPERIOR_SUPPORT)</br></br>
-[![CONTACT ME](https://img.shields.io/badge/Telegram-Contact%20Me-informational)](https://t.me/Timesisnotwaiting)
+[![UPDATES](https://telegra.ph/file/133730131def9724e5b5b.jpg)](https://t.me/THN_BOTS)
 
-## 🆃🅷🅰🅽🅺🆂 🅵🅾🆁 🅲🅾🅳🅴🆂...
+##Owner➺✘Unknown
 
- - Saitama Robot - for Modules
- - Layla Bot - for Some Help modules
- - innexia - for some Button And Helps
-
-
+## [![UNDER THN PROJECT💞❣️](https://telegra.ph/file/3a303b8b1a0398146c027.jpg)](https://t.me/THN_BOTS/16)
